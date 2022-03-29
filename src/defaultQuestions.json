@@ -1,0 +1,269 @@
+{
+    "min": [
+        { 
+            "category": "min", 
+            "questionId": 1, 
+            "question": "¿En que show aparecian los Simpsons originalmente?",
+            "1":"Late Show with David Letterman",
+            "2":"Saturday Night Live",
+            "3":"The Tracey Ullman Show",
+            "4":"The Tonight Show",
+            "correct":"The Tracey Ullman Show"
+        },      
+        {
+            "category": "min", 
+            "questionId": 2, 
+            "question": "¿Que animales o personas iban a ser los principales personajes?",
+            "1":"Castores",
+            "2":"Personas verdes",
+            "3":"Conejos",
+            "4":"Personas amarillas",
+            "correct": "Conejos" 
+        }, 
+        {
+            "category": "min", 
+            "questionId": 3, 
+            "question": "¿Quien le disparo al Sr. Burns?",
+            "1":"Moe Szyslak",
+            "2":"Waylon Smithers",
+            "3":"Seymour Skinner",
+            "4":"Maggie Simpson",
+            "correct": "Maggie Simpson" 
+        }, 
+        {
+            "category": "min", 
+            "questionId": 4, 
+            "question": "¿Cuál es el segundo nombre de Homero?",
+            "1":"Jerry",
+            "2":"Jaison",
+            "3":"Jay",
+            "4":"Juan",
+            "correct": "Jay"
+        },
+            
+        {
+            "category": "min", 
+            "questionId": 5, 
+            "question": "¿Cuantos especiales de terror 'La casita del horror' han tenido los Simpson?",
+            "1":"Veinticiete",
+            "2":"Veinticinco",
+            "3":"Veintiocho",
+            "4":"Diecinueve",
+            "correct": "Veinticinco"
+        }
+     ],
+    "low": [
+        {
+            "category": "low", 
+            "questionId": 1, 
+            "question": "¿Como se escribe el apellido de apu?",
+            "1":"Najasapemapetilon",
+            "2":"Nahasapeemapeetilon",
+            "3":"Nahassapimapetilon",
+            "4":"Nahasapeemapetilon",
+            "correct":"Nahasapeemapetilon"
+        }, 
+        {
+            "category": "low", 
+            "questionId": 2, 
+            "question": "¿Cual es la ciudad que detesta la gente de Springfield?",
+            "1":"Nueva York",
+            "2":"Washington",
+            "3":"Chernobyl",
+            "4":"Shaelbyville",
+            "correct":"Shaelbyville" 
+        }, 
+        {
+            "category": "low", 
+            "questionId": 3, 
+            "question": "¿Quien produjo el sonido del chumete de Maggie?",
+            "1":"Un bebe",
+            "2":"Matt Groening",
+            "3":"Nancy Cartwright",
+            "4":"Dustin Hoffman",
+            "correct":"Matt Groening" 
+        }, 
+        {
+            "category": "low", 
+            "questionId": 4, 
+            "question": "¿Cual es el correo electrónico de Homero?",
+            "1":"homeroamamarge@aol.com",
+            "2":"reydelasdonas@aol.com",
+            "3":"amantedelacomida53@aol.com",
+            "4":"donbarredora@aol.com",
+            "correct":"amantedelacomida53@aol.com" 
+        }, 
+        {
+            "category": "low", 
+            "questionId": 5, 
+            "question": "¿A que es alergico Bart?",
+            "1":"Camarones",
+            "2":"Mani",
+            "3":"Fresas",
+            "4":"Polen",
+            "correct":"Camarones" 
+        }
+
+
+     ],
+    "medium": [
+        {
+           "category": "medium", 
+            "questionId": 1, 
+            "question": "¿Que marca es el auto de Homero?",
+            "1":"Plymounth Valiant",
+            "2":"Plymounth Belvedere",
+            "3":"Plymounth Barracuda",
+            "4":"Plymounth Junkerolla",
+            "correct":"Plymounth Junkerolla"  
+        }, 
+        {
+            "category": "medium", 
+            "questionId": 2, 
+            "question": "¿Como se llamaba el presidente de Globex, donde tambien trabajo Homero?",
+            "1":"Albert Brooks",
+            "2":"Dan Castellaneta",
+            "3":"Hank Scorpio",
+            "4":"Hank Azaria",
+            "correct":"Hank Scorpio"     
+        }, 
+        {
+            "category": "medium", 
+            "questionId": 3, 
+            "question": "¿Cual es el verdadero nombre del director Seymour Skinner?",
+            "1":"Armando Barrera",
+            "2":"Lalo Landa",
+            "3":"Humberto Velez",
+            "4":"Herb Powell",
+            "correct":"Armando Barrera"  
+        }, 
+        {
+            "category": "medium", 
+            "questionId": 4, 
+            "question": "¿Quen dijo la frase: 'Hola Lisa, Hola Super Nintendo Chalmers'?",
+            "1":"Milhouse Van Houten",
+            "2":"Nelson Muntz",
+            "3":"Rafa Gorgory",
+            "4":"Martin Prince",
+            "correct":"Rafa Gorgory"  
+        }, 
+        {
+            "category": "medium", 
+            "questionId": 5, 
+            "question": "¿En quien se inspiro Matt Groening para los nombres de los personajes Principales?",
+            "1":"En sus padres, hermanos y tias",
+            "2":"En amigos de la infancia",
+            "3":"En protagonistas de sus series favoritas",
+            "4":"En los personajes de su libro favorito",
+            "correct":"En sus padres, hermanos y tias"  
+        }
+
+
+     ], 
+     "high": [
+            {
+                "category": "high", 
+                "questionId": 1, 
+                "question": "¿Cual era el nombre de la empresa de internet de Homero y su cargo?",
+                "1":"Revolucionariux - Presidente",
+                "2":"Compumundohipermegared - Vicepresidente Jr",
+                "3":"Interrevolux - Vicepresidente",
+                "4":"Intermegaredilimitada - Ceo",
+                "correct":"Compumundohipermegared - Vicepresidente Jr"
+            }, 
+            {
+                "category": "high", 
+                "questionId": 2, 
+                "question": "¿Quiénes fueron originalmente los borbotones?",
+                "1":"Apu, Skinner, el Gorgory y Homero",
+                "2":"Otto, Apu, Mel Patiño y Homero",
+                "3":"Barney, Homero, Skinner y Gorgory",
+                "4":"Otto, Burns, Homero y Apu",
+                "correct":"Apu, Skinner, el Gorgory y Homero"
+            }, 
+            {
+                "category": "high", 
+                "questionId": 3, 
+                "question": "¿Cuál es el nombre real de Bob Patiño?",                
+                "1":"Roberto Zabaleta Archundia",
+                "2":"Alberto Sepulveda Echevarria",
+                "3":"Gilberto Zaragoza Aristia",
+                "4":"Gabriel Velandia",
+                "correct":"Roberto Zabaleta Archundia"
+            }, 
+            {
+                "category": "high", 
+                "questionId": 4, 
+                "question": "¿Como se llamaba el producto japones que tenia la cara de Homero como logotipo?",                
+                "1":"Mr. Fabuloso",
+                "2":"Mr. Limpieza",
+                "3":"Mr. Chispa",
+                "4":"Mr. Fresco",
+                "correct":"Mr. Chispa"
+            }, 
+            {
+                "category": "high", 
+                "questionId": 5, 
+                "question": "¿De quien fue guardaespaldas Homero?",                
+                "1":"Alcalde Diamante",
+                "2":"Krusty",
+                "3":"Gordo Tony",
+                "4":"Sr. Burns",
+                "correct":"Alcalde Diamante"
+            }
+        ],
+    "max": [
+        {
+            "category": "max", 
+            "questionId": 1, 
+            "question": "¿Como se llama la mamá de Homero?",
+            "1":"Mona",
+            "2":"Lola",
+            "3":"Ema",
+            "4":"Connie",
+            "correct":"Mona"  
+        }, 
+        {
+            "category": "max", 
+            "questionId": 2, 
+            "question": "¿Que cantante tenia un jardin secreto en el techo de la tienda de Apu?",
+            "1":"Paul McCartney",
+            "2":"Elton John",
+            "3":"John Lennon",
+            "4":"Rongo Starr",
+            "correct":"Paul McCartney"   
+        }, 
+        {
+            "category": "max", 
+            "questionId": 3, 
+            "question": "¿Que es lo que necesita Homero para motivar a los empleados de Globex?",
+            "1":"Mas Vacaciones",
+            "2":"Hamacas",
+            "3":"Sillas Reclinables",
+            "4":"Mejor Sueldo",
+            "correct":"Hamacas"   
+        }, 
+        {
+            "category": "max", 
+            "questionId": 4, 
+            "question": "¿De que diseñador es el vestido que Marge compra en la tien de descuentos",
+            "1":"Prada",
+            "2":"Chanel",
+            "3":"Versace",
+            "4":"Louis Vuitton",
+            "correct":"Chanel"
+        }, 
+        {
+            "category": "max", 
+            "questionId": 5, 
+            "question": "¿Que cancion de Rock cantan en la iglesia en el capitulo que Barte vende su alma?",
+            "1":"People are Strange - The Doors",
+            "2":"In-a-gadda-da-vida - Iron Butterfly",
+            "3":"Highway to hell - AC/DC",
+            "4":"Enter Sandman - Metallica",
+            "correct":"In-a-gadda-da-vida - Iron Butterfly"
+        }
+
+
+     ]
+}

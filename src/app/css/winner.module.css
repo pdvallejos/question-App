@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Futura LtCn BT';
+    src:url('../fonts/FuturaBT-LightCondensed.woff2') format('woff2');
+    font-weight:         300;
+    font-style: normal;
+    font-display: swap;
+}
+
+:root {
+    --height-header: 4rem;
+    --primary-color: #1b3764;
+    --secondary-color: #212528;
+    --alternative-color: #F7901E;
+    --transparent-color: #00000075;
+}
+
+.main-container {
+    background-color: darksalmon;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon i {
+    font-size: 10rem;
+    background-color: cadetblue;
+    border-radius: 51%;
+}
+.message p {
+    text-align: center;
+}
+button {
+    margin-top: 50px;
+}
+button i {
+    text-align: center;
+    font-size: 3rem;
+}
